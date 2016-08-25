@@ -1,0 +1,150 @@
+#ad_subject {
+    background:url("../../images/Record.png") no-repeat;
+    background-size: 100% 100%;
+}
+.ad_headCon{
+    height: 2.5rem;
+}
+.ad_handPic{
+    float: left;
+}
+.ad_headCon_subject{
+    float: left;
+    width: 7rem;
+    font-size: 0.8rem;
+    color: #F98412;
+    font-weight: bold;
+    font-family: "Helvetica", "Microsoft YaHei", "微软雅黑";
+    line-height: 1.1rem;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    margin-top:0.2rem;
+}
+.ad_font_h3{
+    height:2.6rem;
+    font-size: 0.5rem;
+    line-height: 0.8rem;
+    margin-left: 1.3rem;
+    color:#B3A272;
+    p {
+      color:#B3A272;
+    }
+}
+.ad_recommend{
+    width: 10rem;
+    height: 1.3rem;
+    background-color: #29CFBD;
+    color: white;
+    margin: 0 auto;
+    border-radius: 3rem;
+    font-size: 0.6666rem;
+    line-height: 1.3rem;
+
+}
+.ad_recommend input{
+    outline: medium;
+    width: 4rem;
+    background: none;
+    border: none;
+    border-radius: 0;
+    border-bottom: 3px solid #FFF;
+    color: #FFF;
+    padding: 0 0 0 0.2rem;
+}
+.ad_inviteCode{
+    position: relative;
+    top: -1.25rem;
+    left: 4.5rem;
+    font-size: 0.7rem;
+    width: 3.5rem;
+}
+.ad_subjectPic{
+    background: url("../../images/appleActivityPic.png") no-repeat;
+    background-size: 85% 85%;
+    height: 5.5rem;
+    margin-top: 0.3rem;
+    margin-left:1.3rem;
+}
+.ad_font_t4{
+    height:2.5rem;
+    font-size: 0.5rem;
+    line-height: 0.8rem;
+    margin-left: 1rem;
+    color:#B3A272
+}
+.ad_role{
+    text-align: center;
+    height: 1.5rem;
+}
+.ad_role_captures {
+    color: #6b4023;
+    font-size: 0.7rem;
+    text-decoration: underline;
+}
+.ad_goPageLottery{
+    text-align: center;
+    height:1.8rem;
+}
+.ad_goPageLottery_btn{
+    width: 8rem;
+    height: 1.5rem;
+    border-radius: 1.5rem;
+    background-color:#ffae0b;
+    font-size: 0.8rem;
+    color: #671c02;
+    border:none;
+    outline:medium;
+}
+.ad_font_t5{
+    font-size: 0.55rem;
+    color:#B3A272;
+    text-align: center;
+}
+.ad_role_bg_page{
+    width:12rem;
+    height: 38rem;
+    background: #FDFCFC;
+    position: fixed;
+    top: -16rem;
+    opacity: 0.9;
+    z-index: 1;
+    display: none;
+}
+.ad_role_captures_content{
+    position: relative;
+    display: none;
+    top: 2rem;
+    z-index:2;
+}
+.ad_role_subject{
+    position: absolute;
+    top: -19rem;
+    left:3.1rem;
+    color: #6b4023;
+    font-size: 0.9rem;
+}
+.ad_role_info{
+    position: absolute;
+    top: -17rem;
+    left: 0.4rem;
+    color: #6b4023;
+    font-size: 0.55rem;
+    text-align: center;
+    line-height: 1rem;
+}
+.ad_role_info span{
+    color:red;
+}
+
+.ad_role_btn{
+    position: absolute;
+    top: -9rem;
+    left:2rem;
+    width: 8rem;
+    height: 1.5rem;
+    border-radius: 1.5rem;
+    background-color:#ffae0b;
+    font-size: 0.8rem;
+    color: #671c02;
+    border:none
+}

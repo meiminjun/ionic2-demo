@@ -1,0 +1,53 @@
+{
+  "body": {
+    "drawNum": "5",
+    "rewardActivityInfo": [{
+      "activityNum": "10000",
+      "lotteryTime": "2016-08-06 11:45:00",
+      "prizeCode": "http://maam-prd.qiniudn.com/MAAM_BANNERIMG_1976",
+      "prizeNum": "10",
+      "winnerCode": "22222222"
+
+    }, {
+      "activityNum": "50000",
+      "lotteryTime": "2016-08-06 18:00:00",
+      "prizeCode": "http://maam-prd.qiniudn.com/MAAM_BANNERIMG_1976",
+      "prizeNum": "5",
+      "winnerCode": "11111111"
+    }, {
+      "activityNum": "50000",
+      "lotteryTime": "2016-08-05 19:00:00",
+      "prizeCode": "http://maam-prd.qiniudn.com/MAAM_BANNERIMG_1976",
+      "prizeNum": "5",
+      "winnerCode": "11111111"
+    }, {
+      "activityNum": "50000",
+      "lotteryTime": "2016-08-05 20:00:00",
+      "prizeCode": "http://maam-prd.qiniudn.com/MAAM_BANNERIMG_1976",
+      "prizeNum": "5",
+      "winnerCode": "11111111"
+    }, {
+      "activityNum": "50000",
+      "lotteryTime": "2016-08-05 12:00:00",
+      "prizeCode": "http://maam-prd.qiniudn.com/MAAM_BANNERIMG_1976",
+      "prizeNum": "5",
+      "winnerCode": "11111111"
+    }, {
+      "activityNum": "50000",
+      "lotteryTime": "2016-08-05 12:00:00",
+      "prizeCode": "http://maam-prd.qiniudn.com/MAAM_BANNERIMG_1976",
+      "prizeNum": "5",
+      "winnerCode": "11111111"
+    }, {
+      "activityNum": "100000",
+      "lotteryTime": "2016-08-05 12:00:00",
+      "prizeCode": "http://maam-prd.qiniudn.com/MAAM_BANNERIMG_1975",
+      "prizeNum": "8",
+      "winnerCode": "22222222"
+    }],
+    "newReward": "100",
+    "isNewUser": "Y"
+  },
+  "code": "0",
+  "message": " Operation successfully."
+}
