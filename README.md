@@ -1,1 +1,2 @@
-# Ionic 2 Tabs Starter
+# ionic2-demo
+ionic2-demo
